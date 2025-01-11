@@ -17,3 +17,5 @@ for i in range(len(rollno)):
 marks = input("Enter your marks: ")
 for i in range(len(marks)):
 	marks[i] = input(f"Enter character for position {i}: ")
+
+#all changes made
