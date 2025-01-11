@@ -8,4 +8,3 @@ name = input("Enter your name: ")
 for i in range(len(name)):
 	name[i] = input(f"Enter character for position {i}: ")
  
- 
