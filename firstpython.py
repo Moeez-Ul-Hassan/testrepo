@@ -12,3 +12,8 @@ for i in range(len(name)):
 rollno = input("Enter your rollno.: ")
 for i in range(len(rollno)):
 	rollno[i] = input(f"Enter character for position {i}: ")
+
+#Create a loop for marks
+marks = input("Enter your marks: ")
+for i in range(len(marks)):
+	marks[i] = input(f"Enter character for position {i}: ")
